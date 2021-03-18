@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dev-test-store/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dev-test-store/static/js/main.ff552fbd.chunk.js",
+    "main.js.map": "/dev-test-store/static/js/main.ff552fbd.chunk.js.map",
+    "runtime-main.js": "/dev-test-store/static/js/runtime-main.124f5c01.js",
+    "runtime-main.js.map": "/dev-test-store/static/js/runtime-main.124f5c01.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/dev-test-store/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.babad2e7.chunk.js": "/dev-test-store/static/js/2.babad2e7.chunk.js",
+    "static/js/2.babad2e7.chunk.js.map": "/dev-test-store/static/js/2.babad2e7.chunk.js.map",
+    "static/js/3.fde40c16.chunk.js": "/dev-test-store/static/js/3.fde40c16.chunk.js",
+    "static/js/3.fde40c16.chunk.js.map": "/dev-test-store/static/js/3.fde40c16.chunk.js.map",
+    "index.html": "/dev-test-store/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/dev-test-store/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/dev-test-store/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.babad2e7.chunk.js.LICENSE.txt": "/dev-test-store/static/js/2.babad2e7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.124f5c01.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.babad2e7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ff552fbd.chunk.js"
+  ]
+}
