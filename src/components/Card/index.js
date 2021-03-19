@@ -10,7 +10,7 @@ function Card(props) {
     return(
         <>
             <div className="card" style={styles.card}>
-                <img src={props.image} className="card-img-top" alt={props.title} />
+                <img src={props.image} className="card-img-top img-thumbnail" alt={props.title} />
                 <div className="card-body">
                     <h5 className="card-title">{props.title}</h5>
                     <p className="card-text">${props.price}</p>
