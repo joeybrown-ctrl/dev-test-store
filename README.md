@@ -24,7 +24,7 @@
 
   ## Description 
 
-  ![Image of Dev Test Store]()
+  ![Gif of Dev Test Store](https://github.com/joeybrown-ctrl/dev-test-store/blob/master/public/Assets/Images/DevTestGif.gif)
 
   <hr>
 
